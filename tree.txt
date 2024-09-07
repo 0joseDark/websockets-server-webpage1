@@ -1,0 +1,8 @@
+chat-app/
+│
+├── templates/
+│   └── index.html  (Arquivo HTML para o cliente)
+├── static/
+│   └── style.css   (Arquivo CSS)
+├── app.py          (Servidor Flask com WebSockets)
+└── script.js       (Lógica de WebSockets no cliente)
